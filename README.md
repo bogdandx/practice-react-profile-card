@@ -1,1 +1,3 @@
-# practice-react-profile-card
+Profile Card App
+
+![screenshot](screenshot.png)
